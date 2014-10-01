@@ -8,16 +8,17 @@ Developing an auto evaluator for python assignments.
 	
 Scope of our project:
 	
-	* Evaluation of only python programs.
+    * Evaluation of only python programs.
 	
-	* We only evaluate specific assignments/programs. (We do not evaluate generic programs like sorting/searching)
+    * We only evaluate specific assignments/programs. (We do not evaluate 
+      generic programs like sorting/searching)
 	
-	* Evaluation of programs against time.
+    * Evaluation of programs against time.
 	
-	* Checking programs against plagiarism.
+    * Checking programs against plagiarism.
 	
 
-Example	
+Example:	
 	The instructor has to specify what kind of input has to be taken, and the desired output format.
 	He is also required to give both an input and an output file to evaluate the program.
 		
