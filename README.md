@@ -10,8 +10,7 @@ Scope of our project:
 	
     * Evaluation of only python programs.
 	
-    * We only evaluate specific assignments/programs. (We do not evaluate 
-      generic programs like sorting/searching)
+    * We only evaluate specific assignments/programs. (We do not evaluate generic programs like sorting/searching)
 	
     * Evaluation of programs against time.
 	
