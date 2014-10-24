@@ -54,4 +54,4 @@ Example:
 	$:3
 			
 			
-			
+The output of this autograding will be available in a result.txt file.		
